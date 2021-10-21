@@ -1,0 +1,29 @@
+API Quick Guide(RapidAPI) 
+Joshua Green
+
+************************************************
+
+This guide has been developed to aid first time users in understanding what are APIs 
+and how to implement them. 
+
+APIs(Application Programing Interface) allow for applications to interact with external
+services through commandlets. This saves time in code development by not "reinventing the wheel"
+on functions a program needs by porting them over from existing software.
+
+This guided walkthrough takes the route of API's from RapidAPI.com and a more comprehensive guide can be found here:
+
+https://rapidapi.com/blog/how-to-use-an-api/
+
+Set-Up:
+
+Step 1: Acquire API Key for API of choice. This will be checked by the API you want to call with each request to check against its directory 
+of authorized users.
+
+Step 2: Test the API endpoints to ensure that the API is actually accessable.
+
+Step 3: Create an app for the API. Whether this is a web page, program, application, etc. some space where you can make the API requests
+to retrieve back data is necessary.
+
+Testing:
+
+Using an API from RapidAPI.com we can easily acquire open-source API keys and endpoints as well as code snippets that can be used in our own projects.
